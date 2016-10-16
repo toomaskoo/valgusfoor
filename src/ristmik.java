@@ -42,7 +42,7 @@ public class ristmik extends Application  {
 
         Scene valgusfoor = new Scene(mainpane, 1000, 1000);
         primaryStage.setScene(valgusfoor);
-        ulemine.foor();
+        
 
         primaryStage.show();
     }

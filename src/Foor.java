@@ -13,7 +13,7 @@ public class Foor {
     Timer timer = new Timer();
 
 
-    
+
 
     public void foor() {
         Circle punane = new Circle(20);
